@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nabil Ruslin</h1>
-<h3 align="center">A newly passionate java developer from Malaysia</h3>
+<h3 align="center">A newly passionate IT learner from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=believein134&label=Profile%20views&color=0e75b6&style=flat" alt="believein134" /> </p>
 
-- 🌱 I’m currently learning **on Java, Javascriot**
+- 🌱 I’m currently learning **on XML,JSON, Javascriot**
 
 - 📫 How to reach me **nabilruslin34@gmail.com**
 
